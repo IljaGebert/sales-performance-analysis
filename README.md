@@ -35,15 +35,19 @@ The goal is to clean, transform, and visualize the data to uncover trends and pr
 
 ## Example Plots
 **Monthly Revenue**
+
 ![Monthly Sales](images/sales_by_month.png)
 
 **Revenue by City**
+
 ![Revenue by City](images/sales_by_city.png)
 
 **Orders by Hour**
+
 ![Orders by Hour](images/orders_by_hour.png)
 
 **Product Price vs Revenue**
+
 ![Price vs Revenue](images/price_vs_revenue.png)
 
 ---
